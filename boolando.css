@@ -37,8 +37,8 @@ footer{
 }
 main{
     margin-top: 5%;
-    margin-left: 7%;
-    margin-right: 7%;
+    margin-left: 12%;
+    margin-right: 12%;
 }
 .Prodotti{
     display: flex;
@@ -49,8 +49,8 @@ article{
     position: relative;
     display: flex;
     background-color: greenyellow;
-    width: calc((100% / 3) - 10rem);
-    height: 500px;   
+    width: calc((100% / 3) - 1rem);
+    height: 600px;   
 }
  .prodotto > img{
     width: 100%;
@@ -94,7 +94,27 @@ article{
     width: 25px;
     
 }
+#descrizione-articolo{
+    position: absolute;
+    bottom: -50px;
+}
+#secondoarticolodes{
+    position: absolute;
+    bottom: -30px;
+}
+#prezzoarticolo{
+    position: absolute;
+    bottom: -70px;
 
-
+}
+ #prezzoarticolo{
+    color: red;
+}
+#rigato{
+    position: absolute;
+    bottom: -70px;
+    left: 70px;
+    text-decoration: line-through;
+}
 
 
