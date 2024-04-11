@@ -116,5 +116,19 @@ article{
     left: 70px;
     text-decoration: line-through;
 }
+.subtitles{
+    display: flex;
+    color: white;
+    padding-top: 20px;
+}
+#leftsubtitles{
+    margin-left: 12%;
+}
+#rightsubtitles{
+    position: absolute;
+    margin-right: 12%;
+    left: 80%;
+}
+
 
 
