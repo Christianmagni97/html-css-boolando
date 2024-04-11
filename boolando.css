@@ -66,7 +66,25 @@ article{
     color: white;
     text-align: center;
 }
-
+#sostenibile{
+    position: absolute;
+    bottom: 40px;
+    background-color: green;
+    height: 20px;
+    width: 120px;
+    color: white;
+    text-align: center;
+}
+#sostenibile2{
+    position: absolute;
+    bottom: 40px;
+    left: 45px;
+    background-color: green;
+    height: 20px;
+    width: 120px;
+    color: white;
+    text-align: center;
+}
 
 
 
