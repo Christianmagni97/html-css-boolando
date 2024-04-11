@@ -85,6 +85,15 @@ article{
     color: white;
     text-align: center;
 }
+#cuore{
+    position: absolute;
+    top: 10px;
+    right: 0;
+    background-color: white;
+    height: 25px;
+    width: 25px;
+    
+}
 
 
 
